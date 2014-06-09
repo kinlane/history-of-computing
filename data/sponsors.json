@@ -1,0 +1,21 @@
+{
+    "sponsors": [
+       {
+            "title": "3Scale",
+            "tagline": "API Management",
+            "url": "http://bit.ly/13esk6Q",
+            "logo": "http://bit.ly/1dukrg2",
+            "width": "200",
+             "paddingbottom": "10"
+        },                                                       
+        {
+            "title": "WSO2",
+            "tagline": "Open Source API Management",
+            "url": "http://bit.ly/17KyhtZ",
+            "logo": "http://bit.ly/1cwyWC0",
+            "width": "160",
+             "paddingbottom": "10"
+        }        
+               
+    ]
+}
